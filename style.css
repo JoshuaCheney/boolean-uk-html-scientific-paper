@@ -1,0 +1,19 @@
+header.page-header {
+    background: no-repeat left/cover
+      url(https://d2o2utebsixu4k.cloudfront.net/media/images/f64026c1-4f3d-42f7-98b9-0ee5fe46ef92.jpg);
+    display: flex;
+    height: 500px;
+    min-width: 100px;
+    align-items: center;
+    color: fuchsia;
+    text-shadow: #000 0 0 0.2em;
+  }
+
+  body {
+    background-color: gray;
+  }
+  
+  .purple-text {
+    color: fuchsia;
+  }
+  
